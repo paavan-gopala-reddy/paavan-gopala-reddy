@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paavan-gopala-reddy
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Kubernetes, Docker, Ansible, Terraform etc ...
+- 🌱 I’m currently working on Kubernetes, Docker, Ansible, Terraform etc ...
 - 💞️ I’m looking to collaborate on kubernetes projects
 - 📫 How to reach me at paavan014@gmail.com
 
